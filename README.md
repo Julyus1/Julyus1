@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a self-taught programmer and a 4th-year Bachel
 
 # 💫 About Me:
 
-🌍 Studying in Angles City, Philippines 
+🌍 Studying in Angles City, Philippines <br>
 💻 Aspiring to be a full-stack mobile developer<br>
 🌱 Currently honing my skills in mobile and web development<br>
 🎯 Goal: Build innovative mobile apps that make a difference<br>
